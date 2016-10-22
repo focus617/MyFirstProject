@@ -1,0 +1,7 @@
+bin/
+gen/
+.metadata/
+.recommenders/
+*.class
+*.jar
+
